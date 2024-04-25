@@ -3,3 +3,5 @@
 Hi, I'm Jonathan Scottini, on this repository I will document my learning process through exercises.
 
 # This is my first repo.
+
+# I made some changes to this document.
